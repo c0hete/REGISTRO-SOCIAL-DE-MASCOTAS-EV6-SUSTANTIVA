@@ -15,7 +15,7 @@ Para utilizar la API, sigue los siguientes pasos:
 
     Abre una terminal en la carpeta raíz del proyecto.
     Ejecuta el comando npm start para iniciar el servidor de la API.
-    Accede a la URL http://localhost:3000 desde tu navegador web para utilizar la API.
+    Accede a la URL http://localhost:4000 desde tu navegador web para utilizar la API.
 
 Funcionalidades
 
@@ -38,6 +38,7 @@ PUT	/pets/:id	Actualiza un registro de mascota por su ID
 DELETE	/pets/:id	Elimina un registro de mascota por su ID
 
 AGRADECIMIENTOS:
-A Sebastian Marambio por su apoyo en este proyecto https://github.com/sebamarambio96
+
+A Sebastian Marambio por su apoyo en este proyecto https://github.com/sebamarambio96.
 
 Este proyecto fue desarrollado por José Alvarado por motivos academicos.
