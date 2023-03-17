@@ -37,8 +37,5 @@ POST	/pets	Crea un nuevo registro de mascota
 PUT	/pets/:id	Actualiza un registro de mascota por su ID
 DELETE	/pets/:id	Elimina un registro de mascota por su ID
 
-AGRADECIMIENTOS:
-
-A Sebastian Marambio por su apoyo en este proyecto https://github.com/sebamarambio96.
 
 Este proyecto fue desarrollado por José Alvarado por motivos academicos.
